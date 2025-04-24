@@ -234,7 +234,7 @@ export default function Home() {
                 <ProjectCard
                   title="NFT Marketplace"
                   description="A decentralized marketplace for creating, buying, and selling NFTs with wallet integration."
-                  image="/nft.jpg?height=300&width=500"
+                  image="/nft.png?height=300&width=500"
                   tags={["Nextjs", "Solidity", "Ethers.js", "IPFS"]}
                   githubUrl="https://github.com/Atindra11Mishra/nft-marketplace.git"
                   liveUrl="https://nft-marketplace-topaz-chi.vercel.app/"
@@ -242,7 +242,7 @@ export default function Home() {
                 <ProjectCard
                   title="DeFi Dashboard"
                   description="A comprehensive dashboard for monitoring and managing DeFi investments across multiple protocols."
-                  image="/defi.jpg?height=300&width=500"
+                  image="/defi.png?height=300&width=500"
                   tags={["Next.js", "Web3.js", "The Graph", "Tailwind CSS"]}
                   githubUrl="#"
                   liveUrl="https://v0-solidity-nft-marketplace.vercel.app/"
