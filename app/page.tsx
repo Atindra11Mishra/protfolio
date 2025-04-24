@@ -247,14 +247,7 @@ export default function Home() {
                   githubUrl="#"
                   liveUrl="https://v0-solidity-nft-marketplace.vercel.app/"
                 />
-                <ProjectCard
-                  title="Blockchain Explorer"
-                  description="A custom blockchain explorer for a Layer 2 solution with transaction tracking and analytics."
-                  image="/placeholder.svg?height=300&width=500"
-                  tags={["Next.js", "Ethers.js", "PostgreSQL", "Redis"]}
-                  githubUrl="#"
-                  liveUrl="#"
-                />
+               
               </div>
             </TabsContent>
           </Tabs>
