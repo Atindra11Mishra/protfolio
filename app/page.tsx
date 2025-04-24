@@ -244,8 +244,8 @@ export default function Home() {
                   description="A comprehensive dashboard for monitoring and managing DeFi investments across multiple protocols."
                   image="/defi.png?height=300&width=500"
                   tags={["Next.js", "Web3.js", "The Graph", "Tailwind CSS"]}
-                  githubUrl="#"
-                  liveUrl="https://v0-solidity-nft-marketplace.vercel.app/"
+                  githubUrl="https://github.com/Atindra11Mishra/defi.git"
+                  liveUrl="https://defi-puce.vercel.app/"
                 />
                
               </div>
